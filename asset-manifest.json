@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Forum-Frontend-Web/static/css/main.b64e865b.css",
+    "main.js": "/Forum-Frontend-Web/static/js/main.1ad796c4.js",
+    "static/media/login_vector.jpg": "/Forum-Frontend-Web/static/media/login_vector.062b2fa24f9fb13c324c.jpg",
+    "static/media/signup.jpg": "/Forum-Frontend-Web/static/media/signup.a11946746eb55bdc35e7.jpg",
+    "static/media/error.png": "/Forum-Frontend-Web/static/media/error.81228563eb10dc836afd.png",
+    "static/media/forumimage.png": "/Forum-Frontend-Web/static/media/forumimage.a5dd97af09201363c2b5.png",
+    "index.html": "/Forum-Frontend-Web/index.html",
+    "main.b64e865b.css.map": "/Forum-Frontend-Web/static/css/main.b64e865b.css.map",
+    "main.1ad796c4.js.map": "/Forum-Frontend-Web/static/js/main.1ad796c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64e865b.css",
+    "static/js/main.1ad796c4.js"
+  ]
+}
